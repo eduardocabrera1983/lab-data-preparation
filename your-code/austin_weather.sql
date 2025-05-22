@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS weather_data;
+CREATE DATABASE IF NOT EXISTS weather_data;
 
 USE weather_data;
 
